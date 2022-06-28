@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+}
+
+*:focus {
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+/*
+font-family: 'Kumbh Sans',sans-serif;
+400 & 700
+*/
+
+html {scroll-behavior: smooth;}
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+}
