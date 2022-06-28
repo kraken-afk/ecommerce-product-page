@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/ecommerceproductpage-with-sass-and-plain-javascript-3ZSfJwzgEd)
+- Live Site URL: [Here](https://ecommerce-product-page-lake.vercel.app/)
 
 ## My process
 
@@ -53,5 +53,3 @@ const proudOfThisFunc = () => {
 ## Acknowledgments
 
 Front-end is boring.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
